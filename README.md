@@ -6,7 +6,10 @@ It uses a LARGE portion of the create-react-app cli (see below).
 
 ## What has been added to create-react-app ?
 
-Basically, the only thing this starter kit add is the support of Sass/Scss.
+- Support of Sass/Scss.
+- Flow (npm run flow OR via the nuclide IDE).
+- React-router-dom is pre-installed and pre-configured (handled in main.js)
+
 
 
 
